@@ -3,48 +3,54 @@ img.kitty{
     margin-left: auto;
     margin-right: auto;
     height: 250px;
-    }
-    
-    p#headline{
-        font-style: italic;
-        text-align: center;
-    }
-    
-    p.sectionTitle{
-        text-align: center;
-        font-size: 16px;
-    }
-    
-    p.sectionHeading{
-        font-weight: bold;
-        text-decoration: underline;
-        font-style: italic;
-    }
-    
-    div.content{
-        padding: 0px;
-        max-width: 900px;
-    }
-    
-    div#aboutMe{
-        padding-left: 5px;
-        padding-right: 5px;
-        border-color: red;
-        border-style: solid;
-        float: left;
-        width: 45%;
-        height: 350px;
-    }
-    
-    div#contactBox{
-        padding-left: 5px;
-        padding-right: 5px;
-        border-color: red;
-        border-style: solid;
-        height: 350px;
-    }
-    
-    div#innerBox{
-        border-radius: 50px;
-        border-color: gray;
-    }
+}
+
+p#headline{
+    font-style: italic;
+    text-align: center;
+}
+
+p.sectionTitle{
+    text-align: center;
+    font-size: 16px;
+}
+
+p.sectionHeading{
+    font-weight: bold;
+    text-decoration: underline;
+    font-style: italic;
+}
+
+div.content{
+    padding: 0px;
+    max-width: 900px;
+}
+
+div#aboutMe{
+    padding-left: 5px;
+    padding-right: 5px;
+    border-color: red;
+    border-style: solid;
+    float: left;
+    width: 45%;
+    height: 400px;
+}
+
+div#contactBox{
+    padding-left: 5px;
+    padding-right: 5px;
+    border-color: red;
+    border-style: solid;
+    height: 400px;
+}
+
+div#innerBox{
+    border-radius: 25px;
+    border-color: gray;
+    border-style: solid;
+    width: 40%;
+    margin-left: auto;
+    margin-right: 40px;
+    padding: 30px;
+    float: right;
+}
