@@ -1,50 +1,50 @@
 img.kitty{
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        height: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 250px;
     }
     
     p#headline{
-        font-style: italic;
-        text-align: center;
+        font-style: italic;
+        text-align: center;
     }
     
     p.sectionTitle{
-        text-align: center;
-        font-size: 16px;
+        text-align: center;
+        font-size: 16px;
     }
     
     p.sectionHeading{
-        font-weight: bold;
-        text-decoration: underline;
-        font-style: italic;
+        font-weight: bold;
+        text-decoration: underline;
+        font-style: italic;
     }
     
     div.content{
-        padding: 0px;
-        max-width: 900px;
+        padding: 0px;
+        max-width: 900px;
     }
     
     div#aboutMe{
-        padding-left: 20px;
-        padding-right: 20px;
-        border-color: red;
-        border-style: solid;
-        float: left;
-        width: 45%;
-        height: 350px;
+        padding-left: 5px;
+        padding-right: 5px;
+        border-color: red;
+        border-style: solid;
+        float: left;
+        width: 45%;
+        height: 350px;
     }
     
     div#contactBox{
-        padding-left: 20px;
-        padding-right: 20px;
-        border-color: red;
-        border-style: solid;
-        height: 350px;
+        padding-left: 5px;
+        padding-right: 5px;
+        border-color: red;
+        border-style: solid;
+        height: 350px;
     }
     
     div#innerBox{
-        border-radius: 50px;
-        border-color: gray;
+        border-radius: 50px;
+        border-color: gray;
     }
