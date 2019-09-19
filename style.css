@@ -1,0 +1,41 @@
+img.kitty{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+    
+    p.sectionTitle{
+        text-align: center;
+        font-size: 16px;
+    }
+    
+    p.sectionHeading{
+        font-weight: bold;
+        text-decoration: underline;
+        font-style: italic;
+    }
+    
+    div.content{
+        padding: 5px;
+    }
+    
+    div#aboutMe{
+        padding: 20px;
+        border-color: red;
+        border-style: solid;
+        float: left;
+        width: 50%;
+    }
+    
+    div#contactBox{
+        padding: 20px;
+        border-color: red;
+        border-style: solid;
+        width: 50%;
+    }
+    
+    div#innerBox{
+        border-radius: 50px;
+        border-color: gray;
+    }
